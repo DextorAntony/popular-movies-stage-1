@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PopularMoviesStage1</string>
+    <string name="title_placeholder">Title Placeholder</string>
+    <string name="x_x_10">x.x / 10</string>
+    <string name="xx_xx_xxxx">XX/XX/XXXX</string>
+    <string name="rating">Rating:</string>
+    <string name="released">Released:</string>
+    <string name="overview">Overview</string>
+
+    <string-array name="sort_options">
+        <item>Most Popular</item>
+        <item>Top Rated</item>
+    </string-array>
+</resources>
